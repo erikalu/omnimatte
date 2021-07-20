@@ -1,0 +1,9 @@
+torch==1.8.0
+torchvision
+dominate>=2.4.0
+visdom>=0.1.8
+matplotlib>=3.2.1
+opencv-python==4.5.1
+Pillow>=6.1.0
+numpy>=1.19.2
+

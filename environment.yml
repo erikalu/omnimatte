@@ -1,0 +1,16 @@
+name: omnimatte
+channels:
+  - pytorch
+  - defaults
+dependencies:
+- python=3.8
+- pytorch=1.8.0
+- pip:
+  - dominate==2.4.0
+  - torchvision
+  - Pillow>=6.1.0
+  - numpy==1.19.2
+  - visdom==0.1.8
+  - opencv-python==4.5.1
+  - matplotlib
+
