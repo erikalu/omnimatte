@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code for your research, please cite the following paper:"
+authors:
+- family-names: "Lu"
+  given-names: "Erika"
+- family-names: "Cole"
+  given-names: "Forrester"
+- family-names: "Dekel"
+  given-names: "Tali"
+- family-names: "Zisserman"
+  given-names: "Andrew"
+- family-names: "Freeman"
+  given-names: "William T"
+- family-names: "Rubinstein"
+  given-names: "Michael"
+title: "Omnimatte: Associating Objects and Their Effects in Video"
+year: 2021
+preferred-citation:
+  type: inproceedings
+  authors:
+  - family-names: "Lu"
+    given-names: "Erika"
+  - family-names: "Cole"
+    given-names: "Forrester"
+  - family-names: "Dekel"
+    given-names: "Tali"
+  - family-names: "Zisserman"
+    given-names: "Andrew"
+  - family-names: "Freeman"
+    given-names: "William T"
+  - family-names: "Rubinstein"
+    given-names: "Michael"
+  title: "Omnimatte: Associating Objects and Their Effects in Video"
+  year: 2021
