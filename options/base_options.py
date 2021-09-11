@@ -33,7 +33,7 @@ class BaseOptions():
         parser.add_argument('--dataset_mode', type=str, default='omnimatte', help='chooses how datasets are loaded.')
         parser.add_argument('--serial_batches', action='store_true', help='if true, takes images in order to make batches, otherwise takes them randomly')
         parser.add_argument('--num_threads', default=4, type=int, help='# threads for loading data')
-        parser.add_argument('--batch_size', type=int, default=16, help='input batch size')
+        parser.add_argument('--batch_size', type=int, default=2, help='input batch size')
         parser.add_argument('--max_dataset_size', type=int, default=float("inf"), help='Maximum number of samples allowed per dataset. If the dataset directory contains more than max_dataset_size, only a subset is loaded.')
         parser.add_argument('--display_winsize', type=int, default=256, help='display window size for both visdom and HTML')
         # additional parameters
